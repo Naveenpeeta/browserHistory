@@ -1,0 +1,48 @@
+.time-accessed {
+  color: #64748b;
+  font-weight: bold;
+}
+.list-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 20px;
+}
+.details-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 20px;
+}
+.url-cont {
+  color: #64748b;
+  padding-left: 14px;
+}
+
+.title {
+  color: #475569;
+  font-weight: bold;
+  padding-left: 14px;
+}
+.delete-icon {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.history-image {
+  width: 40px;
+  height: 40px;
+  margin-left: 65px;
+  margin-right: 15px;
+}
+.browser-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.browser-end {
+  align-self: center;
+  justify-content: flex-end;
+  margin-left: auto;
+}
